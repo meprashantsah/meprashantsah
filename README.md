@@ -1,93 +1,123 @@
-# Hi there 👋 I'm Prashant Sah
+<div align="center">
 
-### Backend Software Engineer | Java | Spring Boot | Spring AI | MERN
+# Hi 👋, I'm Prashant Sah
 
-I enjoy building scalable backend systems, REST APIs, AI-powered applications, and cloud-native software.
+### Backend Software Engineer | Java | Spring Boot | Spring AI
 
-Currently working with
+<p>
+Building scalable backend systems, REST APIs, AI-powered applications, and cloud-native software.
+</p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://prashant-portfolio-three.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant%20Sah-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prashant-sah-41642529b)
+[![Profile Views](https://komarev.com/ghpvc/?username=meprashantsah&style=for-the-badge)](https://github.com/meprashantsah)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Currently Working On
 
 - Java 25
 - Spring Boot
 - Spring AI
 - PostgreSQL
-- MongoDB
+- MongoDb
 - Docker
+- AWS
 
+</td>
 
-- ## 👨‍💻 About Me
+<td width="50%">
 
-🎓 Computer Science Graduate
+### 🌱 Currently Learning
 
-💼 Backend Developer
-
-🌱 Currently learning
-
-- Spring AI
-- Distributed Systems
 - Microservices
+- Distributed Systems
 - Kubernetes
+- System Design
 
-⚡ Interested in
-
-- Backend Engineering
-- AI Applications
-- Cloud Computing
-
-
-## 🚀 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,js,ts,react,mongodb,postgres,docker,aws,git,github,linux,idea,vscode"/>
-</p>
-
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=meprashantsah&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=meprashantsah&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meprashantsah&layout=compact&theme=tokyonight)
-
-
-## ⭐ Featured Projects
-
-### Journey Tracker
-Spring Boot + PostgresSQL
-
-Backend application for patient journey management with dynamic task scheduling.
+</td>
+</tr>
+</table>
 
 ---
 
-### AI Voice Agent
+# 💻 Tech Stack
 
-Spring AI + Retell AI
+<div align="center">
 
-Voice AI agent capable of handling healthcare conversations.
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,react,ts,js,mongodb,postgres,docker,aws,git,github,linux,idea,vscode&perline=8"/>
 
----
-
-### MERN Ecommerce
-
-React + Express + MongoDB
-
-Full-stack ecommerce platform with authentication and payment integration.
+</div>
 
 ---
 
-### Portfolio Website
+# 📊 GitHub Statistics
 
-Built with React and hosted on Vercel.
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=meprashantsah&show_icons=true&theme=tokyonight"/>
 
-## 📫 Connect With Me
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meprashantsah&layout=compact&theme=tokyonight"/>
 
-LinkedIn:
-https://linkedin.com/in/prashant-sah-41642529b
+</div>
 
-![](https://komarev.com/ghpvc/?username=meprashantsah)
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meprashantsah&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⭐ Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🚀 Journey Tracker | Backend application for patient journey management and scheduling | Spring Boot, PostgreSQL |
+| 🤖 AI Voice Agent | AI healthcare voice assistant using Retell AI | Spring AI, Retell AI |
+| 🛒 MERN Ecommerce | Full-stack ecommerce platform | React, Express, MongoDB |
+| 🌐 Portfolio Website | Personal portfolio hosted on Vercel | React |
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=meprashantsah&theme=tokyonight&row=1&column=6)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
 
 ![Snake animation](https://github.com/meprashantsah/meprashantsah/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 
+---
 
+<div align="center">
+
+### 🤝 Let's Connect
+
+<a href="https://linkedin.com/in/prashant-sah-41642529b">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://prashant-portfolio-three.vercel.app/">
+🌐 Portfolio
+</a>
+
+</div>
