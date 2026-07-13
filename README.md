@@ -20,7 +20,7 @@ Building scalable backend systems, REST APIs, AI-powered applications, and cloud
 
 I am a Backend Software Engineer specializing in building scalable, cloud-native applications and integrating AI capabilities. In my day-to-day role, I focus on delivering high-performance APIs, robust database architectures, and clean, production-ready code.
 
-* 🚀 **Current Focus:** Architecting robust backend systems with **Java, Spring Boot, Spring AI, PostgreSQL and MongoDb**.
+* 🚀 **Current Focus:** Architecting robust backend systems with **Java, Spring Boot, PostgreSQL and MongoDb**.
 * 🤖 **AI Integration:** Leveraging **Spring AI** to build intelligent applications.
 * 🌱 **Upskilling:** Diving deep into **Microservices, Distributed Systems, Kubernetes, and System Design** to build highly distributed systems.
 
