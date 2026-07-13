@@ -18,7 +18,7 @@ Building scalable backend systems, REST APIs, AI-powered applications, and cloud
 
 # 👨‍💻 About Me
 
-I am a Backend Software Engineer specializing in building scalable, cloud-native applications and integrating AI capabilities. I recently transitioned from a six-month backend internship into a full-time engineering role, where I focus on delivering high-performance APIs and robust database architectures.
+I am a Backend Software Engineer specializing in building scalable, cloud-native applications and integrating AI capabilities. In my day-to-day role, I focus on delivering high-performance APIs, robust database architectures, and clean, production-ready code.
 
 * 🚀 **Current Focus:** Architecting robust backend systems with **Java, Spring Boot, Spring AI, PostgreSQL and MongoDb**.
 * 🤖 **AI Integration:** Leveraging **Spring AI** to build intelligent applications.
@@ -211,7 +211,6 @@ I am a Backend Software Engineer specializing in building scalable, cloud-native
 | 🚀 Journey Tracker   | Backend application for patient journey management and scheduling | Spring Boot, PostgreSQL |
 | 🤖 AI Voice Agent    | AI healthcare voice assistant using Retell AI                     | Spring AI, Retell AI    |
 | 🛒 MERN Ecommerce    | Full-stack ecommerce platform                                     | React, Express, MongoDB |
-| 🌐 Portfolio Website | Personal portfolio hosted on Vercel                               | React                   |
 
 ---
 
